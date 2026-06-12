@@ -1,0 +1,62 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Full Supply - ECPv6.16.3//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-ORIGINAL-URL:https://fullsupply.org
+X-WR-CALDESC:Events for Full Supply
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-Robots-Tag:noindex
+X-PUBLISHED-TTL:PT1H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20240310T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20241103T060000
+END:STANDARD
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20250309T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20251102T060000
+END:STANDARD
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20260308T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20261101T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20250524T090000
+DTEND;TZID=America/New_York:20250524T150000
+DTSTAMP:20260611T211929
+CREATED:20250425T123443Z
+LAST-MODIFIED:20250429T212837Z
+UID:5753-1748077200-1748098800@fullsupply.org
+SUMMARY:The Mentor's Launchpad
+DESCRIPTION:The Beginner’s Blueprint to Mentor Others in Just One Day!A Women’s Virtual Workshop \nAre you ready to silence self-doubt and step boldly into your purpose? Join us for a transformative virtual workshop designed to ignite your inner confidence and equip you with the tools to start and lead with clarity and courage. \nIn just one powerful day\, you’ll learn how to:✨ What it really means to be a mentor (+ what it doesn’t)✨ How to start your first mentoring relationship✨ Overcoming fear and feeling unqualified as a mentor✨ Setting expectations and communicating effectively\n✨ A simple plan for your first mentoring session\n✨ Bonus: The Mentor’s Quick Start Guide + More! \nWhether you’re new to mentoring or ready to multiply your impact\, this workshop is your launchpad – offering biblical encouragement\, practical tools and guidance to help you step confidently into mentoring others for Christ. \n👩‍💻 When: May 24\, 2025 | 9AM-3PM📍 Where: Online (Zoom link provided upon registration)🎯 Who should attend: Aspiring women leaders\, entrepreneurs\, creatives\, and professionals ready to rise \nCome as you are. Leave empowered\, focused\, and fired up to lead!
+URL:https://fullsupply.org/event/the-mentors-launchpad/
+CATEGORIES:Mentor Training
+END:VEVENT
+END:VCALENDAR
